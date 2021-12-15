@@ -1,8 +1,8 @@
-package App;
+package test;
 
 import model.Person;
 
-public class Test {
+public class App {
 
     public static void main(String[] args) {
         Person per = new Person("Per");
