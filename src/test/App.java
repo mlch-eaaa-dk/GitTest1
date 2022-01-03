@@ -10,5 +10,8 @@ public class App {
 
         Person ulla = new Person("Ulla", 25);
         System.out.println(ulla);
+
+        Person pia = new Person("Pia", 30);
+        System.out.println(pia);
     }
 }
